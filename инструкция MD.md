@@ -115,4 +115,18 @@ Markdown — облегчённый язык разметки, созданны�
 ![картинка](https://krasivosti.pro/uploads/posts/2021-03/1616475211_2-p-nyashnie-kotyata-foto-koshka-2.jpg "котейка")
 
 
+2.Без описания:
+
+\![картинка]\(https://www.meme-arsenal.com/memesd04ce7dba284cbaa6abeafe92713e4ae.jpg)
+
+![картинка](https://www.meme-arsenal.com/memes/d04ce7dba284cbaa6abeafe92713e4ae.jpg)
+
+
+
+
+
+
+
+
+
 
